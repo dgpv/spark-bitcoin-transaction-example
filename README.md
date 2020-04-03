@@ -8,7 +8,7 @@ I succeeded in specifying and proving important properties of not entirely trivi
 code, and thus I consider my self-study of the topic successful.
 
 The code and approaches used in it need better description and explanation,
-but I cannot decicate time to do this right now, so I'm just releasing it as it is.
+but I cannot dedicate time to do this right now, so I'm just releasing it as it is.
 
 I hope that this might be useful to someone, even in this 'raw' state, without an
 accompanying detailed explanation.
